@@ -34,3 +34,5 @@ ssh -T git@github.com
 ```
 
 出现GitHub用户名提示即成功
+
+Done
