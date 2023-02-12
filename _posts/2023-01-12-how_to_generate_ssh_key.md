@@ -1,7 +1,7 @@
 ---
 title: 如何通过SSH连接GitHub？
 date: 2023-01-12
-categories: [配置, Git操作]
+categories: [配置, Git]
 tags: [github, ssh]
 
 author: <author_id>
