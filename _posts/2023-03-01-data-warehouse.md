@@ -1,6 +1,6 @@
 ---
 title: 数据仓库入门
-date: 2023-03-02
+date: 2023-03-01
 categories: [数据仓库]
 tags: [hive, data warehouse]
 
