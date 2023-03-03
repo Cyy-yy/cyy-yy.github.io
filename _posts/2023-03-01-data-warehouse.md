@@ -11,6 +11,8 @@ mermaid: true
 pin: true
 ---
 
+
+
 ## 1. 数仓基础
 
 ### 1.1 概念
@@ -82,7 +84,7 @@ Hive是一款建立在Hadoop之上的开源数仓系统，可以将存储在Hado
 
 - **建表语句**
 
-  ```hive
+  ```sql
   create table tb_name (
   	id int comment "ID",
       name string comment "usr_name",
