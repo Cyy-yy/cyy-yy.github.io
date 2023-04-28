@@ -1,6 +1,6 @@
 ---
 title: Java泛型理解
-date: 2023-03-28
+date: 2023-04-26
 categories: [Java]
 tags: [java, generics]
 
